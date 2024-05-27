@@ -3,6 +3,8 @@
 ## INTRODUCTION:
 The Loan Management System (LMS) presented in this abstract is a comprehensive solution designed to streamline and optimize the entire lifecycle of loans. It encompasses a user-friendly interface for seamless loan application, robust approval processes, efficient disbursement workflows, and intelligent repayment tracking mechanisms. The LMS acts as a centralized hub, providing real-time insights into loan statuses, payment histories, and risk assessments. With advanced features such as automated notifications, document management, and risk analysis tools, the system ensures accuracy, transparency, and compliance throughout the lending process.
 
+Click [here](Documents) to view all the content in the Documents.
+
 ## DATABASE SCHEMA:
 borrowers(id, firstname, middlename,lastname, contact_no,address, email, tax_id, date_created);
 
