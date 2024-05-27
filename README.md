@@ -27,7 +27,7 @@ payments(id, loan_id, payee, amount, penalty_amount, overdue, date_created); use
 ## IMPLEMENTATION STEPS :
 1. Install XAMPP
 2. Open XAMPP and start all the servers
-3. Download the [LMS](LMS) file from the repository
+3. Download the [LMS](LMS.zip) file from the repository
 4. Unzip and Move the downloaded file to the XAMPP **htdocs** folder
 5. Run the **home.php** file from the **LMS** folder in the web browser
 6. Example : http://localhost/LMS/home.php
